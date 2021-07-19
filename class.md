@@ -26,9 +26,9 @@
 - The selector is the HTML element you want to style such as (h1, h2, or p)
 - The declaration tells the browser how your selected element should be styled
 
-- CSS declarations are made up of two parts: **property** and **value**, separated ny a colon
+- CSS declarations are made up of two parts: **property** and **value**, separated by a colon
 
 ` h1, h2, h3 {
     font-family: Arial;
     color: yellow;
-}`
+}
