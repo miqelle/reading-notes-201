@@ -44,7 +44,7 @@
 - `.note {}`: This targets all elements whose class has the *note* value
 - `#introduction {}`: This targets the element with the id value of *introduction*. 
 
-## Synopsis: * can be used to style all elements on your page, and . or # is used to style specific elements!
+Synopsis: * can be used to style all elements on your page, and . or # are used to style specific elements!
 
 # JavaScript
 
