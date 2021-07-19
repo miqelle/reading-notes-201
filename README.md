@@ -4,4 +4,4 @@ This is a compilation of my notes from the **Foundations of Software Development
 
 ## Table of Contents
 
-* [Basics of HTML, CSS, & JavaScript ](https://miqelle.github.io/reading-notes-201/class-02)
+* [Basics of HTML, CSS, & JavaScript ](https://miqelle.github.io/reading-notes-201/class)
