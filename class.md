@@ -28,7 +28,7 @@
 
 - CSS declarations are made up of two parts: **property** and **value**, separated by a colon
 
-` h1, h2, h3 {
+`h1, h2, h3 {
     font-family: Arial;
     color: yellow;
-}
+}`
