@@ -168,4 +168,59 @@ Example of an Array:
 - Comparison Operators: `buy = 3 > 5;`
 - Logical Operators: `buy = (5 > 3) && (2 < 4);`
 
+**Decisions & Loops**
+
+- In a script the code can take more than one path
+- To determine which path to take, programs often rely upon the following three concepts
+
+**Evaluations:** Analyze if values match expected results
+**Decisions:** Use the results of evaluations to decide which oath the script should go
+**Loops:** Perform the same steps repeatedly
+
+**Decision Making**
+
+- Flow charts can be used to plan decision points in your script
+- A condition must be set to determine which path to take in a script
+- You can check if one value is equal to, greater than, or less than another. If the condition returns `true`, you take one path; if it is `false` you take another path
+- Comparison operators are used to compare values and test whether a condition is met or not
+
+**Evaluating Conditions & Conditional Statements**
+
+There are two components to a decision:
+
+1: An expression is evaluated, which returns a value
+2: A conditional statement says what to do in a given situation
+
+**Evaluation of a Condition**
+
+- In order to make a decision your code checks the current status of the script
+- This is usually done by comparing two values using a comparison operator which returns a value of true or false
+
+**Conditional Statements**
+
+- Conditional Statements are based on the if/then/else concept
+- If a condition is met, then you code executes one or more statements, else your code does something different or just skips the script
+
+**Comparison Operators:**
+
+- `===` Strict Equal to  
+- `!==` Strict NOT equal to
+
+**Logical Operators**
+
+- `&&` Logical AND tests if two expressions evaluate to true. If one expression is false, then the whole thing returns false!
+- `||` Logical OR tests if one of two expressions evaluates to true. If at least one IS true, the entire expression returns true
+
+
+**Extra Facts**
+
+- Logical expressions are evaluated left to right
+- The *if statement* evaluates a condition. If the condition is true, it runs the first code in curly braces
+- The *if...else* statement checks a condition. I fit resolves to true the first code block is executed. If the condition resolves to false the second code block is run instead
+- An *if statemtent* only runs a set of statements if the condition is true
+- An *if...else* statement runs one set of code if the condition is true or a different set if it is false
+
+
+
+
 
