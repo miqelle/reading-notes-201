@@ -103,7 +103,7 @@ Synopsis: * can be used to style all elements on your page, and . or # are used 
 **Arrays**
 
 - An *array* doesn't store just one value, it stores a list of values
-- Use an array whenever you are working you are working with a set or list of values that are related to each other
+- Use an array whenever you are working with a set or list of values that are related to each other
 - Values in an array are separated by commas
 
 Example of an Array: 
@@ -116,7 +116,7 @@ Example of an Array:
 
 - When you create an *array* give it a name
 - Values are assigned to the array inside a pair of brackets [*values go here*]
-- A boolean, number, and sting can go in the same array because values in an array do not have to be the same data type
+- A boolean, number, and string can go in the same array because values in an array do not have to be the same data type
 
 
 **Array literal Example:**
@@ -135,13 +135,13 @@ Example of an Array:
            `'black',`
            `'custom'];`
 
-Index     Value
-0         'white'
-1         'black'
-2         'custom'
+| Index   | Value      |
+| --------| ---------  |
+| 0|      | 'white'    |
+| 1|      |  'black'   |
+| 2|      |  'custom'  |
 
 
 - As shown in the example above, index values start at 0 not 1
-
 
 
