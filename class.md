@@ -143,7 +143,7 @@ Example of an Array:
 
 
 - As shown in the example above, index values start at 0 not 1
-- To retrive an item on a list, specify the array name along with the index number in square brackets
+- To retrieve an item on a list, specify the array name along with the index number in square brackets
 
 `var itemThree;`
 `itemThree = colors[2];`
@@ -162,7 +162,7 @@ Example of an Array:
 
 **List of operators**
 
-- Assigment Operators: `=`
+- Assignment Operators: `=`
 - Arithmetic Operators: `*`
 - String Operators: `greeting = 'Hi ' + 'Molly';`
 - Comparison Operators: `buy = 3 > 5;`
