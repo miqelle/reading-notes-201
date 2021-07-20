@@ -135,13 +135,37 @@ Example of an Array:
            `'black',`
            `'custom'];`
 
-| Index   | Value      |
-| --------| ---------  |
-| 0|      | 'white'    |
-| 1|      |  'black'   |
-| 2|      |  'custom'  |
+| Index  | Value   |
+|--------|---------|
+| 0      | 'white' |
+| 1      | 'black' |
+| 2      | 'custom'|
 
 
 - As shown in the example above, index values start at 0 not 1
+- To retrive an item on a list, specify the array name along with the index number in square brackets
+
+`var itemThree;`
+`itemThree = colors[2];`
+
+- Each array has a property called **length**, which holds the number of items in the array
+- You can change the value of an item in an array by selecting it and assigning it a new value
+
+**Expressions**
+
+- An expression evaluates into a single value.
+
+**Example**
+`var area = 3 * 2;`
+
+- Expressions rely on **operators** 
+
+**List of operators**
+
+- Assigment Operators: `=`
+- Arithmetic Operators: `*`
+- String Operators: `greeting = 'Hi ' + 'Molly';`
+- Comparison Operators: `buy = 3 > 5;`
+- Logical Operators: `buy = (5 > 3) && (2 < 4);`
 
 
