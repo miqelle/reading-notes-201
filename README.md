@@ -5,3 +5,4 @@ This is a compilation of my notes from the **Foundations of Software Development
 ## Table of Contents
 
 * [Basics of HTML, CSS, & JavaScript ](https://miqelle.github.io/reading-notes-201/class)
+* [HTML Lists, CSS Boxes, JS Control Flow](https://miqelle.github.io/reading-notes-201/class-2)
