@@ -75,8 +75,73 @@ Synopsis: * can be used to style all elements on your page, and . or # are used 
 
 `price = 5;`
 `quantity = 14;`
-`total = price * quantitiy;`
+`total = price * quantity;`
 
 `var el = document.getElementById('cost');`
 `el.textContent = '$' + total;`
+
+**Quick Tip: Strings must ALWAYS be written on one line **
+
+**`innerHTML` can be used to add HTML to a page**
+
+**Boolean info**
+
+- A Boolean variable can only have the value of true or false
+- Booleans are used when the value can only be true/false
+- Booleans are also used when your code can take more than one path (Different code runs in different circumstances)
+
+**Variable Name Rules**
+
+- The name must begin with a letter, dollar sign, or an underscore
+- It cannot start with a number
+- The name can contain letters, numbers, dollar sign, or an underscore
+- You cannot use a dash or a period
+- You cannot use keywords or reserved words
+- Use a name that describes the kind of info the variable stores
+- Use camel case like this `(userName)` or underscore `(user_Name)`
+
+**Arrays**
+
+- An *array* doesn't store just one value, it stores a list of values
+- Use an array whenever you are working you are working with a set or list of values that are related to each other
+- Values in an array are separated by commas
+
+Example of an Array: 
+
+`var colors;`
+`colors = ['white', 'black', 'custom'];`
+
+`var el = document.getElementById('colors');`
+`el.textContent = colors[0];`
+
+- When you create an *array* give it a name
+- Values are assigned to the array inside a pair of brackets [*values go here*]
+- A boolean, number, and sting can go in the same array because values in an array do not have to be the same data type
+
+
+**Array literal Example:**
+
+`colors = ['white',`
+           `'black',`
+           `'custom'];`
+
+
+- Each item in an array is automatically given a number called an index
+- The index is used to access a specific array item
+
+**Array Index Example:**
+
+`var colors = ['white',`
+           `'black',`
+           `'custom'];`
+
+Index     Value
+0         'white'
+1         'black'
+2         'custom'
+
+
+- As shown in the example above, index values start at 0 not 1
+
+
 
