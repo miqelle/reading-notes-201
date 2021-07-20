@@ -51,6 +51,32 @@ Synopsis: * can be used to style all elements on your page, and . or # are used 
 **Basic JavaScript Instructions**
 
 - A *script* is a set of step by step instructions written for the computer to follow one by one
-- Each individual step is a *statement*
-- Statements should end with a semicolon
+- A script temporarily stores info needed in **variables** 
+- Use *let* to declare a variable you may want to change later
+- Use *const* to declare a variable you want to stay the same
+- You must also name your variable, and the name cannot be any JavaScript keywords
+- A variable's name should describe the kind of data the variable holds
+- After that you assign your variable a value (the info you would like it to store)
+ 
+ Example of variable declaration:
+`let quantity = 3;`
+
+**JavaScript Data Types**
+
+- Number: includes all numbers, positive, negative, and decimals
+- String: anything inside quotation marks 'What is you name?'
+- Boolean: only have a true or false value
+
+**How to use a variable to store a number**
+
+`var price;`
+`var quantity;`
+`var total;`
+
+`price = 5;`
+`quantity = 14;`
+`total = price * quantitiy;`
+
+`var el = document.getElementById('cost');`
+`el.textContent = '$' + total;`
 
