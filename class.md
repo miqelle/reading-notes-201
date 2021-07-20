@@ -173,9 +173,9 @@ Example of an Array:
 - In a script the code can take more than one path
 - To determine which path to take, programs often rely upon the following three concepts
 
-**Evaluations:** Analyze if values match expected results
-**Decisions:** Use the results of evaluations to decide which oath the script should go
-**Loops:** Perform the same steps repeatedly
+- **Evaluations:** Analyze if values match expected results
+- **Decisions:** Use the results of evaluations to decide which path the script should go
+- **Loops:** Perform the same steps repeatedly
 
 **Decision Making**
 
@@ -188,8 +188,8 @@ Example of an Array:
 
 There are two components to a decision:
 
-1: An expression is evaluated, which returns a value
-2: A conditional statement says what to do in a given situation
+1. An expression is evaluated, which returns a value
+2. A conditional statement says what to do in a given situation
 
 **Evaluation of a Condition**
 
@@ -199,7 +199,7 @@ There are two components to a decision:
 **Conditional Statements**
 
 - Conditional Statements are based on the if/then/else concept
-- If a condition is met, then you code executes one or more statements, else your code does something different or just skips the script
+- If a condition is met, then your code executes one or more statements, else your code does something different or just skips the script
 
 **Comparison Operators:**
 
@@ -219,6 +219,8 @@ There are two components to a decision:
 - The *if...else* statement checks a condition. I fit resolves to true the first code block is executed. If the condition resolves to false the second code block is run instead
 - An *if statemtent* only runs a set of statements if the condition is true
 - An *if...else* statement runs one set of code if the condition is true or a different set if it is false
+
+- All notes on this page are referencing Jon Duckett "JavaScript & JQuery" (p.53-84 p.145-162) "HTML & CSS" (p.40-61 p.226-245)
 
 
 
