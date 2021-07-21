@@ -27,3 +27,12 @@
 - The overflow property can have these values: *hidden* or *scroll*
 - *hidden*: simply hides any extra content
 - *scroll*: adds a scrollbar to the box so that users can scroll to see missing content
+
+## Border, Margin, & Padding
+
+- The padding and margin properties are very helpful in adding space between various items on the page.
+- Every box has three available properties that can be adjusted to control its appearance: Borded, Margin, and Padding
+- Padding: the space between the content of an element and its border
+- Margin: the gap between boxes
+- border-radius: a property that can be used to create rounded corners on a box
+
