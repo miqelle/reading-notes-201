@@ -10,6 +10,7 @@
 2. Save images at the exact size you need them to be
 3. Measure images in pixels 
 
+# Notes on Color, Fonts
 - Opacity allows you to specify the opacity of an element, and it is a value between 0.0 and 1.0
 - A value of 0.5 = 50% opacity and 0.15 = 15% opacity
 - When picking foreground and background colors make sure there is enough contrast for the text to be readable
