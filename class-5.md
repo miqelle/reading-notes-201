@@ -40,3 +40,24 @@ Space and line breaks don't matter!! An object can be on multiple lines in your 
 
 - Ojects are the curly braces and their contents
 - Objects are stored in a variable
+
+*this*: is a keyword used to indicate that you ARE using a property of the object you're currently in. 
+
+# How to access an object?
+
+- Use dot notation:
+
+`var mallName = mall.name;` (In this example mall is the object & *name* is the property)
+
+`var mallName = mall.checkStoreHours();` (In this example mall is the object & checkStoreHours(); is the method aka function)
+
+
+- You can also use square brackets:
+
+`var hotelName = hotel['name'];`
+`var roomsFree = hotel['checkAvailability']();`
+
+- Square brackets are only used to access an object if: name or method contains special characters, the name is a number, or if a variable is being used instead of a property name
+
+
+
