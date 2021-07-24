@@ -38,7 +38,7 @@ Space and line breaks don't matter!! An object can be on multiple lines in your 
 
 # What is the object?
 
-- Ojects are the curly braces and their contents
+- Objects are the curly braces and their contents
 - Objects are stored in a variable
 
 *this*: is a keyword used to indicate that you ARE using a property of the object you're currently in. 
