@@ -8,3 +8,4 @@ This is a compilation of my notes from the **Foundations of Software Development
 * [HTML Lists, CSS Boxes, JS Control Flow](https://miqelle.github.io/reading-notes-201/class-2)
 * [HTML Links, JS Functions, and Intro to CSS Layout](https://miqelle.github.io/reading-notes-201/class-3)
 * [Images, Color, Text](https://miqelle.github.io/reading-notes-201/class-4)
+* [Problem Domain, Objects, and the DOM](https://miqelle.github.io/reading-notes-201/class-5)
