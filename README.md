@@ -10,4 +10,4 @@ This is a compilation of my notes from the **Foundations of Software Development
 * [Images, Color, Text](https://miqelle.github.io/reading-notes-201/class-4)
 * [Problem Domain, Objects, and the DOM](https://miqelle.github.io/reading-notes-201/class-5)
 * [Object-Oriented Programming, HTML Tables](https://miqelle.github.io/reading-notes-201/class-6)
-* [CSS Layout](https://miqelle.github.io/reading-notes-201/class-7)
+* [Forms and JS Events](https://miqelle.github.io/reading-notes-201/class-8)
