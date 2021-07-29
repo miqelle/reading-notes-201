@@ -11,3 +11,4 @@ This is a compilation of my notes from the **Foundations of Software Development
 * [Problem Domain, Objects, and the DOM](https://miqelle.github.io/reading-notes-201/class-5)
 * [Object-Oriented Programming, HTML Tables](https://miqelle.github.io/reading-notes-201/class-6)
 * [Forms and JS Events](https://miqelle.github.io/reading-notes-201/class-8)
+* [Error Handling & Debugging](https://miqelle.github.io/reading-notes-201/class-9)
