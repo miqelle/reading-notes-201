@@ -14,3 +14,4 @@ This is a compilation of my notes from the **Foundations of Software Development
 * [Error Handling & Debugging](https://miqelle.github.io/reading-notes-201/class-9)
 * [Audio, Video, Images](https://miqelle.github.io/reading-notes-201/class-10)
 * [Chart.js, Canvas](https://miqelle.github.io/reading-notes-201/class-11)
+*[CSS Transforms, Transitions, and Animations](ttps://miqelle.github.io/reading-notes-201/class-12)
